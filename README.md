@@ -1,8 +1,6 @@
-# Lambda Plugin Example
+# Stash Hunting Item Tool recorder plugin for lambda client. 
 
-This project in an example to show how a proper plugin for [Lambda Client](https://github.com/lambda-client/lambda) is set up.
-The advantage of plugins for a utility mod is that they allow the user to decide what features their personalized client will have. Plugins work in plug and play manner, and can be downloaded and activated inside the ingame menu without reloading the client as long as no mixins are used for the plugin.
-If you are scared about the Kotlin in this project be aware that Kotlin is a wrapper language for Java. That means that plugins can also be natively written in Java.
+This is a tool for recording the contents of the chests in the stashes in minecraft. In order to keep the prograam safe, laambda client was used as a base. This is a plugin which could be aded to it. 
 
 ## Setup
 

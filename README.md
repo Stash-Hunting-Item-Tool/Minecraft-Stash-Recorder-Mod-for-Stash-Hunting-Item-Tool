@@ -1,8 +1,12 @@
 # Stash Hunting Item Tool recorder plugin for lambda client. 
 
-This is a tool for recording the contents of the chests in the stashes in minecraft. In order to keep the prograam safe, laambda client was used as a base. This is a plugin which could be aded to it. 
+This is a tool for recording the contents of the chests in the stashes in minecraft. In order to keep the program safe, laambda client was used as a base. This is a plugin which could be aded to it. 
 
-## Setup
+It is a part of the larger project which included an API, a discord bot and this minecraft mod for recording the items from the packets.
+
+
+
+## Setup instructions
 
 To achieve coding building and publishing your own plugin most of the following steps are required.
 
